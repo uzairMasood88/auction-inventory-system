@@ -1,0 +1,16 @@
+=== Auction House Inventory Statistics ===
+Total items: 20
+Oldest (low year): J003 (1725, $3000.00)
+Newest (high year): T005 (2010, $40.00)
+Most expensive: J003 (1725, $3000.00)
+Least expensive: T005 (2010, $40.00)
+Average starting price: $555.75
+Std dev of starting prices: $772.98
+Condition breakdown:
+  RESTORED: 6
+  NEEDS_RESTORING: 6
+  MINT: 8
+Top 3 largest year estimate differences:
+1. J001 (1825, $2000.00) (diff: 50 years)
+2. J003 (1725, $3000.00) (diff: 50 years)
+3. J002 (1910, $1500.00) (diff: 20 years)

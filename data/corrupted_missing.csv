@@ -1,0 +1,5 @@
+memorabilia,MERR1,1950,1960,John Doe,,150.0,Elvis Presley,Singer,Clothes  // Missing autographed
+jewellery,JERR1,1800,1850,Jane Smith,RESTORED,,Necklace,Gold  // Missing gems
+toys,TERR1,1980,1990,Bob Wilson,MINT,75.0,Figurine,  // Missing name/collection
+memorabilia,MERR2,1940,,Eve Chen,NEEDS_RESTORING,100.0,Marilyn Monroe,Actress,Dress,true  // Missing high year
+jewellery,JERR2,1900,1920,Mike Lee,MINT,1500.0,Ring,  // Missing material/gems

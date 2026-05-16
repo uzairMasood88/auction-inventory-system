@@ -1,0 +1,20 @@
+memorabilia,M001,1950,1960,John Doe,MINT,150.0,Elvis Presley,Singer,Clothes,true
+memorabilia,M002,1970,1980,Alice Johnson,RESTORED,300.0,Muhammad Ali,Boxer,Gloves,false
+memorabilia,M003,1960,1970,Bob Wilson,MINT,200.0,Beatles,Musician,Record,false
+memorabilia,M004,1940,1950,Eve Chen,NEEDS_RESTORING,100.0,Marilyn Monroe,Actress,Dress,true
+memorabilia,M005,1985,1995,Tom Harris,RESTORED,250.0,Michael Jordan,Athlete,Shoes,true
+memorabilia,M006,1920,1930,Lisa Wong,MINT,400.0,Charlie Chaplin,Actor,Cane,false
+memorabilia,M007,1990,2000,David Kim,NEEDS_RESTORING,80.0,Madonna,Singer,Outfit,true
+jewellery,J001,1800,1850,Jane Smith,RESTORED,2000.0,Necklace,Gold,Diamond
+jewellery,J002,1900,1920,Mike Lee,MINT,1500.0,Ring,Silver,None
+jewellery,J003,1700,1750,Sarah Patel,NEEDS_RESTORING,3000.0,Bracelet,Platinum,Ruby
+jewellery,J004,1925,1935,Art Gallery,MINT,800.0,Watch,Gold,Diamond
+jewellery,J005,1950,1960,Private Coll.,RESTORED,1200.0,Earrings,Silver,Emerald
+jewellery,J006,2000,2010,New Gallery,NEEDS_RESTORING,600.0,Brooch,Gold,None
+toys,T001,1980,1990,Bob Wilson,NEEDS_RESTORING,75.0,Figurine,Star Wars Yoda,true
+toys,T002,1975,1985,Alice Johnson,MINT,50.0,Car,Hot Wheels,false
+toys,T003,1995,2005,Tom Harris,RESTORED,100.0,Card,Pokemon,true
+toys,T004,1960,1970,John Doe,MINT,120.0,Action Figure,GI Joe,true
+toys,T005,2005,2015,Eve Chen,NEEDS_RESTORING,40.0,Doll,Barbie,false
+toys,T006,1985,1995,David Kim,MINT,90.0,Train Set,Lionel,true
+toys,T007,1970,1980,Lisa Wong,RESTORED,60.0,Board Game,Monopoly,false

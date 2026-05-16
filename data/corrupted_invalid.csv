@@ -1,0 +1,3 @@
+memorabilia,MERR3,abc,1960,John Doe,MINT,200.0,The Beatles,Musician,Record,false  // Invalid low year "abc"
+jewellery,JERR2,1800,xyz,Sarah Patel,BAD_COND,3000.0,Bracelet,Platinum  // Invalid high "xyz", enum "BAD_COND"
+toys,TER
